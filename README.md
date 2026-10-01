@@ -2,9 +2,9 @@
 
 ### 💻 Desenvolvedor de Software
 
-Sou estudante de Engenharia de Software e desenvolvedor em formação, interessado em criar soluções práticas, aprender novas tecnologias e transformar ideias em projetos reais.
+Sou estudante de **Engenharia de Software** e desenvolvedor em formação, focado em transformar ideias em projetos funcionais e evoluir continuamente através da prática.
 
-Tenho experiência prática com desenvolvimento, Git/GitHub, Linux, Docker e administração de ambientes, além de projetos utilizando diferentes tecnologias e linguagens.
+Tenho experiência com desenvolvimento de aplicações, Git/GitHub, Linux, Docker e administração de ambientes, além de projetos utilizando diferentes linguagens e tecnologias.
 
 ---
 
@@ -12,11 +12,12 @@ Tenho experiência prática com desenvolvimento, Git/GitHub, Linux, Docker e adm
 
 * 🎓 Estudante de Engenharia de Software
 * 💻 Formação anterior na área de Tecnologia da Informação
+* 🚀 Foco em desenvolvimento de software
 * 🐧 Experiência prática com Linux
-* 🐳 Experiência com Docker e ambientes de desenvolvimento
-* 🌐 Desenvolvimento de aplicações e sites
-* 🔧 Gosto de construir, testar e colocar projetos para funcionar na prática
-* 📚 Atualmente focado em evoluir como desenvolvedor de software
+* 🐳 Experiência com Docker e Docker Compose
+* 🌐 Desenvolvimento Web e aplicações
+* 🔧 Gosto de transformar ideias em projetos funcionais
+* 📚 Sempre buscando aprender e melhorar minhas habilidades
 
 ---
 
@@ -24,22 +25,24 @@ Tenho experiência prática com desenvolvimento, Git/GitHub, Linux, Docker e adm
 
 ### Linguagens
 
-* JavaScript
 * Java
 * C#
+* JavaScript
 * Pascal
 * HTML
 * CSS
 
-### Backend
+### Desenvolvimento
 
-* Node.js
 * Spring Boot
+* Node.js
 * APIs REST
+* Desenvolvimento Web
 
-### Banco de dados
+### Banco de Dados
 
 * MySQL
+* SQL
 
 ### DevOps & Infraestrutura
 
@@ -53,33 +56,38 @@ Tenho experiência prática com desenvolvimento, Git/GitHub, Linux, Docker e adm
 
 ## 🚀 Projetos
 
+### 📅 Agenda CRUD .NET
+
+Aplicação desktop desenvolvida em **C#**, utilizando Windows Forms e .NET, com foco em operações CRUD e gerenciamento de dados.
+
 ### 📝 TodoList em Pascal
 
-Aplicação desenvolvida em Pascal como projeto de estudo, trabalhando conceitos de programação e organização de código.
+Aplicação de linha de comando desenvolvida em **Pascal**, criada para praticar fundamentos de programação, estruturas de dados, funções, procedures e validação de entradas.
 
-### 🏋️ FitApp
+### 🌐 Site Institucional
 
-Projeto de aplicação utilizando Spring Boot e MySQL, desenvolvido para praticar desenvolvimento backend e integração com banco de dados.
+Projeto Web desenvolvido com **HTML e CSS**, contendo páginas para apresentação de informações, cultos, eventos e projetos sociais.
 
-### 🌐 Projetos Web
+### 🔧 ProjetoGit
 
-Desenvolvimento de páginas e aplicações utilizando HTML, CSS e JavaScript.
+Projeto de estudos criado para praticar **Git e GitHub**, trabalhando conceitos de controle de versão, commits, alterações e organização de repositórios.
 
 ### 🏠 Homelab
 
-Ambiente pessoal baseado em Linux e Docker utilizado para estudar infraestrutura, servidores, redes, containers e hospedagem de aplicações.
+Ambiente pessoal baseado em **Linux e Docker**, utilizado para estudar servidores, containers, redes, infraestrutura e hospedagem de aplicações.
 
 ---
 
 ## 📚 Atualmente estudando
 
 * Engenharia de Software
-* Desenvolvimento Backend
 * Java e Spring Boot
 * JavaScript e Node.js
+* Desenvolvimento Backend
 * APIs REST
 * Bancos de dados
 * Docker e infraestrutura
+* Git e GitHub
 * Boas práticas de desenvolvimento
 
 ---
@@ -94,18 +102,22 @@ Formação concluída
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo profissional
 
-Construir uma carreira como desenvolvedor de software, evoluindo continuamente através de projetos práticos, estudos e experiências reais de desenvolvimento.
+Construir uma carreira como **Desenvolvedor de Software**, adquirindo experiência profissional, desenvolvendo soluções reais e evoluindo continuamente através de projetos, estudos e novas tecnologias.
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail:** [lucasmir360@gmail.com](mailto:lucasmirmartins@gmail.com)
+📧 **E-mail:** [lucasmir360@gmail.com](mailto:lucasmir360@gmail.com)
 
 💻 **GitHub:** [github.com/lucasmirmartins](https://github.com/lucasmirmartins)
+
+🌐 **Portfólio:** [lucasmirmartins.github.io/lucasmir.github.io](https://lucasmirmartins.github.io/lucasmir.github.io/)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
+
+Sempre aberto a aprender, construir e transformar ideias em código.
